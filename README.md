@@ -13,4 +13,4 @@ Some from copying from other languages, and applying Rust's idioms as an exercis
 ### Bubblesort
 
 
-![formula](https://render.githubusercontent.com/render/math?math={O(n^2)})
+![formula](https://render.githubusercontent.com/render/math?math={$\color{O(n^2)}$})
