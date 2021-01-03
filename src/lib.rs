@@ -9,6 +9,7 @@ pub trait Sorter {
 mod bubblesort;
 mod insertionsort;
 mod quicksort;
+mod selectionsort;
 
 #[cfg(test)]
 mod tests {
