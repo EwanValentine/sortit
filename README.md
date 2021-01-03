@@ -10,7 +10,17 @@ Some from copying from other languages, and applying Rust's idioms as an exercis
 
 ## Algos used
 
-### Bubblesort
+### Bubble Sort
 
+Worst/average case: O(n2)
+Best case: O(n)
 
-![formula](https://render.githubusercontent.com/render/math?math={O(n^2)})
+### Selection Sort
+
+### Quick Sort
+Best case: O(1)
+Average case: O(n log n)
+Worst case: O(n2)
+
+### Insersion Sort
+
